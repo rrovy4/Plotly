@@ -27,5 +27,4 @@ function buildMetadata(sample) {
 function optionChanged(newSample) {
   buildMetadata(newSample);
 }
-
 init();
